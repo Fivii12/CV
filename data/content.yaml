@@ -1,0 +1,66 @@
+BasicInfo:
+  FirstName: Илья
+  LastName: Нефонтов
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +79002975767
+    - Icon: fas fa-envelope
+      Info: dryg882@gmail.com
+    - Icon: fas fa-map-marker-alt
+      Info: Russia
+
+Profile: Добрый и отзывчивый, легко нахожу общий язык c людьми и быстро адаптируюсь в новом коллективе. Открыт для нового опыта, всегда стремлюсь к саморазвитию и увеличению своих знаний. Люблю настольные игры и сложные задачи, настольный теннис.
+
+Education:
+  - Course: Факультет информатики и вычислительной техники, направлние Программная инженерия
+    Place: ПГТУ
+    Date: 2022-2026
+    Details: Специализируюсь на программировании и разработке ПО
+
+
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML (including Jinja)
+      - Javascript
+      - CSS
+      - SQL
+      - C#
+      - Bash
+  - Family: Frameworks
+    Items:
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Windows
+      - Far Manager
+      - Jupyter Notebook
+  - Family: Misc
+    Items:
+      - Adobe Tools
+
+Languages:
+  - Name: Русский
+    Level: Родной
+  - Name: English
+    Level: C1
+
+
+Interests:
+  - Настольный теннис
+  - Чтение книг
+  - Программирование
+  - Настольные игры
+  - Веб-разработка
+  - Машинное обучение
+  - Нейронные сети
+  - Искусственный интеллект
+  - Работа памяти
+  - Сборка кубика Рубика
+  - Компьютерные Игры
